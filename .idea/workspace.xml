@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +244,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601043928855</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created intent to share Candy">
+      <created>1601045148246</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601045148246</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created intent to share Candy">
+      <created>1601045316456</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601045316456</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -263,10 +276,10 @@
       <screen x="0" y="0" width="1366" height="716" />
     </state>
     <state x="184" y="0" width="990" height="712" key="#_1_StartTheStoreInformationActivity.mainactivity_onoptionitemselected_return_super/0.0.1366.716@0.0.1366.716" timestamp="1601022907415" />
-    <state x="96" y="0" width="1165" height="712" key="CommitChangelistDialog2" timestamp="1601045144922">
+    <state x="96" y="0" width="1165" height="712" key="CommitChangelistDialog2" timestamp="1601045547355">
       <screen x="0" y="0" width="1366" height="716" />
     </state>
-    <state x="96" y="0" width="1165" height="712" key="CommitChangelistDialog2/0.0.1366.716@0.0.1366.716" timestamp="1601045144922" />
+    <state x="96" y="0" width="1165" height="712" key="CommitChangelistDialog2/0.0.1366.716@0.0.1366.716" timestamp="1601045547355" />
     <state width="1310" height="155" key="GridCell.Tab.0.bottom" timestamp="1601045290321">
       <screen x="0" y="0" width="1366" height="716" />
     </state>
@@ -283,9 +296,9 @@
       <screen x="0" y="0" width="1366" height="716" />
     </state>
     <state width="1310" height="155" key="GridCell.Tab.0.right/0.0.1366.716@0.0.1366.716" timestamp="1601045290320" />
-    <state x="178" y="30" width="1002" height="650" key="Vcs.Push.Dialog.v2" timestamp="1601045156315">
+    <state x="178" y="30" width="1002" height="650" key="Vcs.Push.Dialog.v2" timestamp="1601045320890">
       <screen x="0" y="0" width="1366" height="716" />
     </state>
-    <state x="178" y="30" width="1002" height="650" key="Vcs.Push.Dialog.v2/0.0.1366.716@0.0.1366.716" timestamp="1601045156315" />
+    <state x="178" y="30" width="1002" height="650" key="Vcs.Push.Dialog.v2/0.0.1366.716@0.0.1366.716" timestamp="1601045320890" />
   </component>
 </project>
